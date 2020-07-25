@@ -1,0 +1,409 @@
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\Jay\source\repos\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\Jay\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csprojResolveAssemblyReference.cache
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.Cache
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CoreCompileInputs.cache
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\source\repos\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Renci.SshNet.dll
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.cache
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+C:\Users\Jay\Documents\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Renci.SshNet.dll
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csprojResolveAssemblyReference.cache
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.Cache
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CoreCompileInputs.cache
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Renci.SshNet.dll
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.cache
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\Desktop\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe.config
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.exe
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\election_thesis.pdb
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.ABI.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Accounts.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Contracts.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Hex.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Model.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RLP.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.RPC.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Signer.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Util.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Nethereum.Web3.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Google.Protobuf.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Renci.SshNet.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.pdb
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Common.Logging.Core.xml
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.xml
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\Newtonsoft.Json.xml
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.admin.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.loginForm.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.Cache
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.exe
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.pdb
+D:\thesis backup\election thesis\election_thesis\election_thesis\bin\Debug\MySql.Data.dll
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+D:\thesis backup\election thesis\election_thesis\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Renci.SshNet.dll
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csprojResolveAssemblyReference.cache
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.Cache
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.CoreCompileInputs.cache
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\jjnasser\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.pdb
+G:\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe.config
+G:\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe
+G:\election_thesis_voter\election_thesis\bin\Debug\election_thesis.pdb
+G:\election_thesis_voter\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\MySql.Data.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.ABI.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Accounts.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Contracts.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Hex.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Model.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RLP.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RPC.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Signer.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Util.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Web3.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Google.Protobuf.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Renci.SshNet.dll
+G:\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.pdb
+G:\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.xml
+G:\election_thesis_voter\election_thesis\bin\Debug\MySql.Data.xml
+G:\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.xml
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.admin.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.loginForm.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.cache
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.exe
+G:\election_thesis_voter\election_thesis\obj\Debug\election_thesis.pdb
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe.config
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.exe
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\election_thesis.pdb
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\MySql.Data.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.ABI.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Accounts.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.BlockchainProcessing.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Contracts.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Hex.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Model.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RLP.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.RPC.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Signer.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Util.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Nethereum.Web3.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Google.Protobuf.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Renci.SshNet.dll
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Common.Logging.Core.xml
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\MySql.Data.xml
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addCandidate.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.addDistrict.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.admin.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ResultsForm.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.DeployContract.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.loginForm.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.ProcessingTransaction.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.Properties.Resources.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.registerVoter.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.setContractAddress.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.SyncingForm.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoteConfirm.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VoterLogin.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingConfig.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.VotingForm.resources
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.GenerateResource.cache
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.csproj.CopyComplete
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.exe
+C:\Users\Jay\Desktop\election_thesis_voter\election_thesis\obj\Debug\election_thesis.pdb
